@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... SQL,Python,PHP,JavaScript,HTML
 - 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ... Work Projects
-- 📫 How to reach me ... email lesego.dhlamini@rentoza.co.za
+- 📫 How to reach me ... email lesegodhl06@gmail.com
 
 <!---
 l-dhlamini/l-dhlamini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
